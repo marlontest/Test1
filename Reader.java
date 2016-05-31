@@ -8,7 +8,7 @@ public Reader(String s){
 }
 
 public String get(){
-  return ss + "Ha ha ha";
+  return ss + "Ha ha ha Hey Hey Hey";
   
   
 }
