@@ -8,9 +8,6 @@ public Reader(String s){
 }
 
 public String get(){
-  return ss + "Ha ha ha Nope Nope Nope";
-
-  
-  
+  return ss + "Ha ha ha Nope Nope Nope";  
 }
 }
