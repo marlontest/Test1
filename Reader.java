@@ -1,5 +1,5 @@
 import java.util.*;
-
+//HAHAHAHAHAHA
 public class Reader{
 private String s;
 
